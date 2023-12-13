@@ -1,0 +1,71 @@
+:root {
+    /*cores da paleta*/
+    --branco:#ffffff;
+    --amarelo:#FFD552;
+    --laranja:#FF992A;
+    --VerdeClaro:#AAE26A;
+    --VerdeEscuro:#29AE6A;
+    --VerdeAbacate:#29E26A;
+    --AzulCinzento:#215663;
+    --AzulEscuro:#021F30;
+
+    /*cores fora da paleta*/
+    --preto:#000;
+    --azul:#0057FF;
+}
+
+header{
+    background-color: #215663;
+    h1{
+        color: #29E26A;
+    }
+}
+#divparanavegacao{
+    background-color: #FF992A;
+}
+
+a{
+    color: black;
+}
+#h1header{
+    color: var(--VerdeAbacate);
+}
+header{
+    background-color: var(--AzulCinzento);
+}
+#divparanavegacao{
+    background-color: var(--laranja);
+}
+#h1direitasecao1{
+    color: var(--VerdeAbacate);
+}
+#receitaPratoEspecial{
+    color: var(--VerdeAbacate);
+}
+#h1direitasecao1-2{
+    color: var(--VerdeAbacate);
+    background-color: var(--amarelo);
+}
+p{
+    color: var(--preto);
+}
+.saibaMais{
+    color: var(--azul);
+}
+#paiDoh1pratosespeciais{
+    background-color: var(--amarelo);
+}
+#h1pratosespeciais{
+    color: var(--preto);
+}
+.nomeDoPrato{
+    color: var(--preto);
+    background-color: var(--amarelo);
+}
+#sextasecao{
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(41,226,106,1) 70%);
+}
+.redesSociais{
+    border: var(--preto);
+}

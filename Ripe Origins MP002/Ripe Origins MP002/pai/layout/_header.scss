@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 1em;
+    width: 100%;
+    background-color: var(--AzulCinzento);
+
+    .logodoheader{
+        width: 5em;
+    }
+
+    .h1header{
+        color: var(--VerdeAbacate);
+        padding: 0% 30% 0% 20%;
+        font-size: 1rem;
+        font-family: cursive;
+    }
+}
+
+@media (max-widht: 340px) {
+
+        .logodoheader{
+            width: 3.5em;
+        }
+    
+        .h1header{
+            color: var(--VerdeAbacate);
+            padding: 0% 30% 0% 20%;
+            font-size: 1rem;
+            font-family: cursive;
+        }
+}   

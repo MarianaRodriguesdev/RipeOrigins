@@ -1,0 +1,187 @@
+p{
+    font-size:1rem ;
+}
+
+h1 {
+    font-size: 1rem;
+}
+
+#h1header{
+    padding-left: 20%;
+    font-size: 1rem;
+    font-family: cursive;
+    color: var(--VerdeAbacate);
+}
+
+h1{
+    padding-left: 20%;
+    font-size: 1rem;
+    font-family: cursive;
+}
+a{
+    font-family: cursive;
+    font-size: 1rem;
+}
+#fundador{
+    margin:0% 0% 0% 15% ;
+}
+#cofundadores{
+    margin:0% 0% 0% 10% ;
+}
+#smith{
+    margin:0% 0% 0% 10% ;
+}
+#domini {
+    margin:0% 0% 0% 10% ;
+}
+#garrido{
+    margin:0% 0% 0% 10% ;
+}
+#lee{
+    margin:0% 0% 0% 10% ;
+}
+#brow{
+    margin:0% 0% 0% 10% ; 
+}
+#h1header{
+    padding-left: 20%;
+    font-size: 1rem;
+    font-family: cursive;
+}
+html{
+    font-size: 16px;
+}
+#logodoheader{
+    width: 20%;
+}
+#divparanavegacao{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: var(--laranja);
+    padding:1rem 0rem ;
+}
+#PrimeiraSecao{
+    display: flex;
+    flex-direction: row;
+    font-size: 1rem;
+}
+#pratoespecial{
+    width: 40%;
+    margin: 0rem 1rem 0rem 0rem;
+}
+#direitaSecao1{
+    font-size: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 1rem 0rem 0rem 0rem;
+}
+#h1direitasecao1{
+    font-size: 1rem;
+    font-family: cursive;
+}
+#receitaPratoEspecial{
+    font-size: 0.5rem;
+    font-family: cursive;
+}
+#h1direitasecao1-2{
+    font-size: 1.25rem;
+    font-family: cursive;
+    padding: 2rem 1rem 2rem 1rem;
+}
+#segundasecao{
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+}
+p{
+    font-size: 1rem;
+    font-family: cursive;
+    color: var(--preto);
+}
+#imgSegundaSecao{
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+}
+.creditosDaImagem{
+    font-family: Arial;
+    font-size: 0.5rem;
+}
+.saibaMais{
+    font-family: Arial;
+    font-size: 1rem;
+}
+
+#quartasecao{
+    margin: 2rem 0rem 4rem 0rem;
+}
+#paiDoh1pratosespeciais{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0rem 4rem 0rem;
+}
+#h1pratosespeciais{
+    font-size: 1.5rem;
+    font-family: cursive;
+}
+.listaPrincipaisPratos{
+    display: flex;
+    flex-direction: column;
+}
+.nomeDoPrato{
+    font-size: 1rem;
+    font-family: cursive;
+    margin: 0% 50% 10% 0%;
+}
+
+.imagemDosPratos{
+    width: 100%;
+    height: 12.5rem;
+    rotate: 90%;
+    margin: 0% 0% 10% 0%;
+}
+#quintasecao{
+    margin: 0rem 0rem 4rem 0rem;
+}
+#faleConosco{
+    font-size: 1rem;
+    font-family: Arial;
+}
+#sextasecao{
+    width: 100%;
+    margin: 0;
+    font-size: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 1rem;
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(41,226,106,1) 70%);
+}
+.redesSociais{
+    font-size: 1rem 5rem;
+    border-radius: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imgRedesSociais{
+    width: 20%;
+}
+h5{
+    font-size: 0.5rem;
+    font-family: Arial;
+    margin: 0% 0% 0% 10%;
+}
+@media(min-width:700px){
+    
+}
+
+
+
+
+

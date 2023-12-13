@@ -1,0 +1,18 @@
+
+header{
+    display: flex;
+    flex-direction: row;
+    // width: 100%;
+    background-color: var(--AzulCinzento);
+}
+
+#h1header{
+    padding-left: 20%;
+    font-size: 1rem;
+    font-family: cursive;
+    color: var(--VerdeAbacate);
+}
+
+#logodoheader{
+    width: 4rem;
+}

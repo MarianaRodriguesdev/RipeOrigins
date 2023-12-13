@@ -1,0 +1,22 @@
+#divparanavegacao{
+    display: flex;
+    justify-content: space-around;
+    // width: 100%;
+    background-color: var(--laranja);
+    padding:1rem 0rem ;
+}
+#formulario{
+    background-color:#215663 ;
+    margin: 0 15em;
+}
+label{
+   font-weight: 800;
+}
+input{
+    background-color:#29E26A; 
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
